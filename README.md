@@ -23,7 +23,7 @@ It includes:
 ---
 
 ## 🏗 Architecture
----
+```
 Next.js (Frontend - TypeScript)
 |
 NestJS Backend (Business API Layer)
@@ -31,7 +31,7 @@ NestJS Backend (Business API Layer)
 FastAPI ML Microservice (Prediction Engine)
 |
 PostgreSQL + Redis
----
+```
 
 
 ### Services:
@@ -175,11 +175,12 @@ Includes:
 ---
 
 ## 📦 Folder Structure
+```
 frontend/
 backend/
 ml-service/
 docker-compose.yml
-
+```
 
 ---
 
