@@ -23,7 +23,7 @@ Displays:
 - Delay Distribution
 - Operator Leaderboard
 
-![Dashboard Screenshot](../assets/dashboard1.png)
+![Dashboard Screenshot](../assets/dashboard.png)
 
 ---
 
@@ -44,7 +44,8 @@ System returns:
 - Route Visualization
 - Google ETA vs ML ETA
 
-![Prediction Screenshot](../assets/prediction.png)
+![Prediction Screenshot](../assets/prediction1.png)
+![Prediction Screenshot](../assets/prediction2.png)
 
 ---
 
