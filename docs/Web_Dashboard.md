@@ -58,7 +58,7 @@ Shows:
 - Speed Consistency
 - Market Share
 
-![Analytics Screenshot](../assets/analytics.png)
+![Analytics Screenshot](../assets/Model_Analytics.png)
 
 ---
 
