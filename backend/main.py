@@ -28,10 +28,10 @@ app.add_middleware(
 def startup_event():
     global route_service, gemini_service
     
-    csv_path = "../Pan-India_Bus_Routes (1).csv"
+    csv_path = "../Pan-India_Bus_Routes.csv"
     if not os.path.exists(csv_path):
         # Fallback for manual run location
-        csv_path = "Pan-India_Bus_Routes (1).csv"
+        csv_path = "Pan-India_Bus_Routes.csv"
     
     try:
         df = data.load_data(csv_path)
